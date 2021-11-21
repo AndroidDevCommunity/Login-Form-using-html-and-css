@@ -1,0 +1,52 @@
+* {
+  margin: 10;
+}
+
+body {
+  background: dodgerblue;
+}
+.sk {
+  width: auto;
+  height: auto;
+  padding: 15px;
+  border: none;
+  border-radius: 35px;
+  background: #f9f9f9;
+  text-align: center;
+}
+h2 {
+  font-size: 25px;
+  font-family: 'poppins', serif;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+.img {
+  height: 100px;
+  width: 100px;
+  border: solid 1px black;
+  border-radius: 50px;
+}
+
+input {
+  border: none;
+  border-bottom: solid 2px black;
+  background: none;
+  height: 40px;
+  width: 90%;
+}
+#submit {
+  width: 80px;
+  height: 40px;
+  background: dodgerblue;
+  border: none;
+  border-radius: 35px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+marquee {
+  color: white;
+  font-size: 15px;
+  font-family: serif;
+}
